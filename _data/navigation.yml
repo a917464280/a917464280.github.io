@@ -1,8 +1,8 @@
 # Site navigation links
 
  - title: 个人学习
-   url:/learning/
-   excerpt:"含学习笔记及作品集"
+   url: /learning/
+   excerpt: "含学习笔记及作品集"
    image: 1.jpg
  
  - title: 学习笔记
