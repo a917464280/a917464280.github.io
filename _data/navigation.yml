@@ -3,19 +3,14 @@
  - title: 个人学习
  -  url:/learning/
  -  excerpt:"含学习笔记及作品集"
- -  image: 
+ -  image: 1.jpg
  
  - title: 学习笔记
    url: 
    excerpt: 
-   image: 
- 
-   title: 123
-   url: 
-   excerpt:
-   image: 
- 
+   image: 2.jpg
+
  - title: 联系我
    url: /contact/
    excerpt: "联络我"
-   image:    
+   image:3.jpg  
