@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "首页文章"
 ---
 
 <div class="tiles">
