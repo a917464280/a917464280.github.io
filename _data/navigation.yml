@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+ - title: 个人学习
+ -  url:/learning/
+ -  excerpt:"含学习笔记及作品集"
+ -  image: 
+ 
+ - title: 学习笔记
+   url: 
+   excerpt: 
+   image: 
+ 
+   title: 123
+   url: 
+   excerpt:
+   image: 
+ 
+ - title: 联系我
+   url: /contact/
+   excerpt: "联络我"
+   image:    
