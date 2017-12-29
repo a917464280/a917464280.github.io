@@ -1,5 +1,9 @@
              转载于百度
-
+---
+layout: default
+title:  "notes"
+categories: 学习笔记
+---
 
 ## Android开发
 
