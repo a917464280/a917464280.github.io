@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /
-title: ""
+permalink: 
+title: 
 ---
 
 <div class="tiles">
