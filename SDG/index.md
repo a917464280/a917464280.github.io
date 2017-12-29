@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "个人学习"
+title:  "learning"
 categories: 个人学习
 ---
 ## 概要
