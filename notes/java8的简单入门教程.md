@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  "article"
+layout: article
+title:  "文章"
 categories: 首页文章
 ---
 
