@@ -1,22 +1,22 @@
 # Site navigation links
 
- - title: 作品集
-   url: /learning/
+ - title: 信息可视化作品集
+   url: /infovis/
    excerpt: 
    image: 1.jpg
  
  
  
  
- - title: 学习笔记
-   url: /notes/
-   excerpt: “含文章以及作品集”
+ - title: Web作品集
+   url: /portfolio/
+   excerpt: 
    image: 2.jpg
 
 
 
 
- - title: 联系我
-   url: /contact/
+ - title: 文章
+   url: /posts/
    excerpt: 
    image: 3.jpg  
