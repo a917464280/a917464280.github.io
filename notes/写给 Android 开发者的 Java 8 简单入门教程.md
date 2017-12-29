@@ -1,3 +1,4 @@
+---
 layout: default
 title:  "notes"
 categories: 学习笔记
