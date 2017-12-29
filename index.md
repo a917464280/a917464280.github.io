@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "首页文章"
+title: ""
 ---
 
 <div class="tiles">
