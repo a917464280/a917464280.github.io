@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "notes"
-categories: 学习笔记
+title:  "article"
+categories: 最新文章
 ---
 
 ## Android开发
