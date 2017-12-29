@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "蔡俊钦个人学习网站"
+title: " 蔡俊钦个人学习网站"
 description: "完成学业课程 提升知识储备"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
@@ -11,9 +11,9 @@ feed:
 
 # Site owner
 owner:
-  name: hanteng
-  email: hantengliao@qq.com
-  twitter: hanteng
+  name: caijunqin
+  email: 2542639393@qq.com
+  twitter: 
   google:
     ad-client:
     ad-slot:
