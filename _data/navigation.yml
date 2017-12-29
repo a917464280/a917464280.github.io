@@ -2,7 +2,7 @@
 
  - title: 个人学习
    url: /learning/
-   excerpt: "含学习笔记及作品集"
+   excerpt: 
    image: 1.jpg
  
  - title: 学习笔记
@@ -12,5 +12,5 @@
 
  - title: 联系我
    url: /contact/
-   excerpt: "联络我"
+   excerpt: 
    image: 3.jpg  
