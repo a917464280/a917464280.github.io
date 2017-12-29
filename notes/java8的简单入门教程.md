@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "article"
-categories: 最新文章
+categories: 首页文章
 ---
 
 ## Android开发
