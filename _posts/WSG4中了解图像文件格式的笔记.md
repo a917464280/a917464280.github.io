@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "关于WSG4中了解图像文件格式的笔记"
+title:  "WSG4中了解图像文件格式的笔记"
 date:   2017-12-30
 categories: 
 image:
