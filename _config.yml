@@ -11,14 +11,14 @@ feed:
 
 # Site owner
 owner:
-  name: caijunqin
+  name: 蔡俊钦
   email: 2542639393@qq.com
   twitter: 
   google:
     ad-client:
     ad-slot:
-  bio: "蔡俊钦 网络与新媒体学生"
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  bio: "网络与新媒体学生"
+  avatar: bio-photo.jpg
   disqus-shortname:
 
 
