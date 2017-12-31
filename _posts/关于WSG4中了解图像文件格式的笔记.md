@@ -1,13 +1,12 @@
 ---
 layout: default
-title:  "关于WSG4中了解图像文件格式"
+title:  "关于WSG4中了解图像文件格式的笔记"
 date:   2017-12-30
 categories: 
 image:
   teaser: 
   feature: 
 ---
-p.329
 ### 了解图像文件格式 UNDERSTANDING IMAGE FILE FORMATS
 > - [x] 主要的Web文件格式为GIF图像（英文发音为“jiff”）， JPEG (英文发音为“jaypeg”), and PNG(英文发音为“ping”) 文件。所有三种常见的Web图形格式都是所谓的位图图形，由一个由数千个微小的彩色正方形图片元素或像素组成的棋盘格组成。位图文件是手机和数码相机所熟悉的文件类型，很容易创建，编辑，调整大小，和优化的Web使用Adobe的PS图象处理软件或元素等广泛使用的工具，Corel的油漆店专业画家，或其他图片编辑程序。
 > - [x] 为了有效地通过Internet传输，几乎所有的web图形都被压缩了
