@@ -2,7 +2,7 @@
 
  - title: 信息可视化作品集
    url: /infovis/
-   excerpt: 
+   excerpt: "包含我的可视化作品"
    image: 1.jpg
  
  
@@ -10,7 +10,7 @@
  
  - title: Web作品集
    url: /portfolio/
-   excerpt: 
+   excerpt: "包含我的Web网页作品"
    image: 2.jpg
 
 
@@ -18,5 +18,5 @@
 
  - title: 学习笔记
    url: /notes/
-   excerpt: 
+   excerpt: "包含我的学习笔记、教程"
    image: 3.jpg  
