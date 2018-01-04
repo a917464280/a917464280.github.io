@@ -16,7 +16,15 @@
 
 
 
- - title: 学习笔记
-   url: /posts/
+ - title: 笔记（Web分类）
+   url: /rwd/
    excerpt: "包含我的学习笔记、教程"
    image: 3.jpg  
+
+
+
+
+ - title: 笔记（信息可视化分类）
+   url: /infovis/
+   excerpt: "包含我的学习笔记、教程"
+   image: 4.jpg  
