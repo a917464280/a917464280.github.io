@@ -16,11 +16,11 @@ body {
 }
 
 p {
-	@include font-size(18,yes,28);
+	@include font-size(20,yes,30);
 }
 
 li {
-	@include font-size(16,12,24);
+	@include font-size(18,14,26);
 }
 
 /* Headings */
