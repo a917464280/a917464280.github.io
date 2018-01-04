@@ -17,7 +17,7 @@
 
 
  - title: 笔记（Web分类）
-   url: /rwd/
+   url: /post/rwd/
    excerpt: "包含我的学习笔记、教程"
    image: 3.jpg  
 
@@ -25,6 +25,6 @@
 
 
  - title: 笔记（信息可视化分类）
-   url: /infovis/
+   url: /posts/infovis/
    excerpt: "包含我的学习笔记、教程"
    image: 4.jpg  
