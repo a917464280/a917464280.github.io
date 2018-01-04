@@ -13,7 +13,7 @@ image:
 以下是我的学习笔记
 
 <div class="tiles">
-{% for post in site.categories.posts%}
+{% for post in site.categories.posts/rwd%}
   {% include post-grid.html %}
 {% endfor %}
 
